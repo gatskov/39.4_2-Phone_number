@@ -1,0 +1,9 @@
+# ninja log v6
+10	745	7445599696964310	Phone_number_autogen/timestamp	4f96107cce7ac0a8
+10	745	7445599696964310	Phone_number_autogen/mocs_compilation.cpp	4f96107cce7ac0a8
+10	745	7445599696964310	D:/VSCode/GitHub/Task_39_2-master/build/Phone_number_autogen/timestamp	4f96107cce7ac0a8
+10	745	7445599696964310	D:/VSCode/GitHub/Task_39_2-master/build/Phone_number_autogen/mocs_compilation.cpp	4f96107cce7ac0a8
+753	2692	7445599697635120	CMakeFiles/Phone_number.dir/Phone_number_autogen/mocs_compilation.cpp.obj	e7d5287943c767ed
+756	2713	7445599697654542	CMakeFiles/Phone_number.dir/main.cpp.obj	e0c17f459a2a465d
+759	3115	7445599697684479	CMakeFiles/Phone_number.dir/mainwindow.cpp.obj	b5bece6ef98cb589
+3116	3404	7445599721258120	Phone_number.exe	f9d2690bc164cf7f

@@ -1,0 +1,5 @@
+D:/VSCode/GitHub/Task_39_2-master/build/CMakeFiles/Phone_number.dir
+D:/VSCode/GitHub/Task_39_2-master/build/CMakeFiles/edit_cache.dir
+D:/VSCode/GitHub/Task_39_2-master/build/CMakeFiles/rebuild_cache.dir
+D:/VSCode/GitHub/Task_39_2-master/build/CMakeFiles/Phone_number_autogen_timestamp_deps.dir
+D:/VSCode/GitHub/Task_39_2-master/build/CMakeFiles/Phone_number_autogen.dir
